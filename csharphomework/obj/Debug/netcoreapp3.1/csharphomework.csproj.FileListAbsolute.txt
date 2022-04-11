@@ -1,0 +1,14 @@
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\csharphomework\csharphomework\bin\Debug\netcoreapp3.1\csharphomework.exe
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\csharphomework\csharphomework\bin\Debug\netcoreapp3.1\csharphomework.deps.json
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\csharphomework\csharphomework\bin\Debug\netcoreapp3.1\csharphomework.runtimeconfig.json
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\csharphomework\csharphomework\bin\Debug\netcoreapp3.1\csharphomework.runtimeconfig.dev.json
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\csharphomework\csharphomework\bin\Debug\netcoreapp3.1\csharphomework.dll
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\csharphomework\csharphomework\bin\Debug\netcoreapp3.1\csharphomework.pdb
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\csharphomework\csharphomework\obj\Debug\netcoreapp3.1\csharphomework.csproj.AssemblyReference.cache
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\csharphomework\csharphomework\obj\Debug\netcoreapp3.1\csharphomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\csharphomework\csharphomework\obj\Debug\netcoreapp3.1\csharphomework.AssemblyInfoInputs.cache
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\csharphomework\csharphomework\obj\Debug\netcoreapp3.1\csharphomework.AssemblyInfo.cs
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\csharphomework\csharphomework\obj\Debug\netcoreapp3.1\csharphomework.csproj.CoreCompileInputs.cache
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\csharphomework\csharphomework\obj\Debug\netcoreapp3.1\csharphomework.dll
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\csharphomework\csharphomework\obj\Debug\netcoreapp3.1\csharphomework.pdb
+C:\Users\UX463FL\OneDrive\Desktop\codeacademy\csharphomework\csharphomework\obj\Debug\netcoreapp3.1\csharphomework.genruntimeconfig.cache
